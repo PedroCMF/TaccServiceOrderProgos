@@ -1,0 +1,80 @@
+# =========================
+# Build results
+# =========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# =========================
+# Visual Studio files
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Rider / VSCode (caso use também)
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# =========================
+# .NET Core
+# =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+# Publish output
+# =========================
+publish/
+*.publishsettings
+
+# =========================
+# Azure
+# =========================
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Database
+# =========================
+*.mdf
+*.ldf
+
+# =========================
+# Resharper
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Test Results
+# =========================
+TestResults/
+*.trx
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
