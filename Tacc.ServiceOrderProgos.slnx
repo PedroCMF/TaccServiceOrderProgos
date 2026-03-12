@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="Documentacao das camadas.md" />
+    <File Path="Passos da construcao do projeto.md" />
+    <Project Path="src/Tacc.serviceOrder.Api/Tacc.serviceOrder.Api.csproj" />
+    <Project Path="src/Tacc.serviceOrder.Application/Tacc.serviceOrder.Application.csproj" />
+    <Project Path="src/Tacc.serviceOrder.Domain/Tacc.serviceOrder.Domain.csproj" />
+    <Project Path="src/Tacc.serviceOrder.Intrastructure/Tacc.serviceOrder.Intrastructure.csproj" />
+  </Folder>
+</Solution>

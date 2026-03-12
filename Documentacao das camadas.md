@@ -1,0 +1,1 @@
+DTO=> Objeto de transferencia de dados, é um objeto simples que é usado para transferir dados entre camadas ou sistemas. Ele geralmente contém apenas propriedades e não possui lógica de negócios.
