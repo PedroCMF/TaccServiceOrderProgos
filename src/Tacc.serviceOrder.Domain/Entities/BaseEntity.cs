@@ -1,6 +1,10 @@
 ﻿namespace Tacc.serviceOrder.Domain.Entities
 {
+<<<<<<< HEAD
     public abstract class  BaseEntity //esta classe será herdada por todas as outras entidades do sistema, para evitar repetição de código, como por exemplo o Id
+=======
+    public abstract class BaseEntity //esta classe será herdada por todas as outras entidades do sistema, para evitar repetição de código, como por exemplo o Id
+>>>>>>> a890a364e4b1bd7f486f40dedfb44e9d3b4e6cd6
     {
         public int Id { get; set; }
         public DateTime Date { get; set; } = DateTime.UtcNow; //pega a data atual do servidor, para evitar problemas de fuso horário

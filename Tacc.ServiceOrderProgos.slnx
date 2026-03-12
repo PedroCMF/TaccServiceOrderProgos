@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a890a364e4b1bd7f486f40dedfb44e9d3b4e6cd6
 <Solution>
   <Folder Name="/src/">
     <File Path="Documentacao das camadas.md" />
@@ -8,3 +12,9 @@
     <Project Path="src/Tacc.serviceOrder.Intrastructure/Tacc.serviceOrder.Intrastructure.csproj" />
   </Folder>
 </Solution>
+<<<<<<< HEAD
+=======
+=======
+<Solution />
+>>>>>>> 75ef369d5fb36f39fcd40cd73799aedcd3dda259
+>>>>>>> a890a364e4b1bd7f486f40dedfb44e9d3b4e6cd6
